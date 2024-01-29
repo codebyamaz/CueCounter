@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/snooker"
+        android:title="Snooker"
+        android:icon="@drawable/baseline_done_all_24"/>
+
+    <item
+        android:id="@+id/century"
+        android:title="Century"
+        android:icon="@drawable/baseline_done_all_24"/>
+
+</menu>
